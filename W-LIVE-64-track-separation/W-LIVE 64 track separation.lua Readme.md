@@ -14,4 +14,4 @@ Note that each track is still 32-channel PCM wave audio, so this will be heavy o
 
 ![render stems](./W-LIVE-64-track-separation-stem-render.png)
 
-I've added a table of track names to the script - edit this to have your Reaper tracks named correctly.
+I've added a table of track names to the script - edit this to have your Reaper tracks named correctly. When rendering stems you can use `$tracknumber $track` for the 'File name' field to get usefully-named output files. 
